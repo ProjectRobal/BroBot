@@ -1,0 +1,1 @@
+A folder that contains schematics of modules used by the project.
